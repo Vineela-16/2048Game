@@ -8,11 +8,6 @@
   <b>A fun and addictive 2048 puzzle game built using HTML, CSS, and JavaScript!</b>
 </p>
 
----
-
-## 🧩 Live Demo  
-👉 [(https://vineela-16.github.io/2048-game/)]
-*(Replace the above link with your actual GitHub Pages URL once deployed)*
 
 ---
 
