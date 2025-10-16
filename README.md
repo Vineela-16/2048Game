@@ -11,7 +11,7 @@
 ---
 
 ## 🧩 Live Demo  
-👉 [[Play Now](https://vineela-16.github.io/2048-game/)]
+👉 [(https://vineela-16.github.io/2048-game/)]
 *(Replace the above link with your actual GitHub Pages URL once deployed)*
 
 ---
