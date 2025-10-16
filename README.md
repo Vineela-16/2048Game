@@ -10,7 +10,11 @@
 
 
 ---
+## 🧩 Live Demo  
+👉 [Play Now](https://vineela-16.github.io/2048-game/)  
+*(https://vineela-16.github.io/2048Game/)*
 
+---
 ## 🕹️ How to Play
 - Use your **arrow keys** ⬆️⬇️⬅️➡️ to move the tiles.  
 - When two tiles with the same number touch, they **merge** into one.  
